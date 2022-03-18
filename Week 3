@@ -1,0 +1,21 @@
+1.##**Ultrasonic Sensor**
+An ultrasonic sensor is a device that measures the distance of a target object by emitting ultrasonic sound waves and the converts the reflected waves into electrical waves.
+Speed of ultrasonic waves>speed of audible sounds
+The formula to calculate the distance is 
+                                             D=1/2 ×T×C
+                                             where C≈343 m/s
+                                             
+2.##**LIDAR**
+Lidar or Light Detection and Ranging is a remote sensing method that uses a laser light to measure variable distances on Earth. Consists of scanner, laser and a GPS scanner and is used by scientists to map lands. 
+
+3.##**Brush DC Motor**
+In a brush DC motor, the brushes are used to transfer electric current from the source to the armatures and when it receives the current it starts behaving like a magnet. The poles start repelling the poles of the magnet because of which the motor shaft where the armature is attached begins to rotate with speed and torque. One of the limitations is because of the brushes the commutators usually wear out, although the cost of building this is not high.
+
+4. ##**Brushless DC Motor**
+It utilizes a permanent magnet as it's external rotor. Its connected to three driving coils and a sensor that tracks its position and sends the signal to the controller which activates the coil. Its drawback is it costs much more than a Brush DC motor.
+
+5. ##**Servo Motors**
+These are the devices that rotate or push machine parts with precision. Mainly used on  angular or linear position and for specific velocity, and acceleration. There are two types, AC servo motors and DC servo motorso of which AC is most used these days as it's faster and more accurate. AC servo motors rely on encoders. They work through controllers providing feedback and closed-loop control making it controllable 
+
+6. ##**Stepper Motor**
+It is an open loop system. It has 6 stator teeth and 4 rotor teeth. Only one pair of stator and rotor teeth is aligned. By energizing the stator teeth phase by pahse, the rotor part rotates to align with the established magnetic field. Nowadays servo motors are used more in the robotic machines because they can miss a step when the torque is too high. They also drain a lot of current which can cause overheating and further affecting the overall efficiency.
